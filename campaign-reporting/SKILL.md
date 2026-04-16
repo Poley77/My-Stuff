@@ -1,3 +1,4 @@
+
 ---
 name: campaign-reporting
 description: Build campaign reports that drive decisions, not just show numbers. Covers report structure, the right metrics for each channel, executive summaries, and how to present results to stakeholders. Use this skill whenever the user mentions campaign reports, marketing reports, performance reports, reporting results, presenting results to stakeholders, marketing dashboards, marketing metrics, weekly or monthly reporting, campaign analysis, paid media reporting, email performance, SEO reporting, or any request to summarize or present marketing campaign data — even if they don’t explicitly say “report.”
